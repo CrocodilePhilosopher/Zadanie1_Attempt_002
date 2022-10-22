@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Zadanie1_Attempt_002</string>
+    <string name="TextView">Enter Your text below: </string>
+    <string name="Button">Enter the text</string>
+</resources>
